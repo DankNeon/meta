@@ -1,0 +1,24 @@
+black
+  css: #282A2D
+  term: 236
+red
+  css: #F92672
+  term: 197
+green
+  css: #77dcb8
+  term: 119
+yellow
+  css: #FD971F
+  term: 208
+blue
+  css: #3887FF
+  term: 69
+purple
+  css: #AE81FF
+  term: 141
+cyan
+  css: #66D9EF
+  term: 81
+white
+  css: #F0F0F0
+  term: 255
