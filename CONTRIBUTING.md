@@ -7,7 +7,7 @@ or join our [Spectrum Chat](https://spectrum.chat/dankneon).
 
 ## Getting Started
 
-First things first, you are going to fork this repo. It contains a lot of the 
+First things first, you are going to want to fork this repo. It contains a lot of the 
 base files you need for your theme. 
 
 > Speaking of those files, here is a quick description of some of the useful stuff
@@ -17,13 +17,21 @@ base files you need for your theme.
 > `colors.md` - this file has a table with all the color information you might need for building a Dank Neon theme
 > `README.template.md` - this file contains a basic template for your README.md file - fill it out or change it however you need!
 
+## Building your theme
+
 Once you have this repo forked and cloned, follow the instructions for building 
 a theme with your editor. Add any files you need to add to build your theme and 
 make sure to write a bit of documentation around building/installing/testing your
 theme so others can help you work! We at least expect a CONTRIBUTING.md file with
-the basics, a README.md so that people know what the repo is about, and a copy of
+the basics of how people can contribute, a README.md so that people know what the repo is about, and a copy of
 our CODE_OF_CONDUCT.md.
+
+## Listing the theme
+
+Now it's time to make a PR to [DankNeon/dankneon.com](https://github.com/DankNeon/dankneon.com), listing your theme in `theme.json`.
 
 **Note:** If your theme has a central package repository, like VS Code or Sublime
 we ask that you let us post the package, so it has the official information from Dank Neon.
+
+
 
